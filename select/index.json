@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "決戦エンドレス",
+  "base_artist": "Knight A - 騎士A -",
+  "createdAt": "2026-04-02T12:34:19.112631Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "決戦エンドレス",
+      "artist": "Knight A - 騎士 A -",
+      "has_synced": false,
+      "path": "select/pl_01_決戦エンドレス_Knight_A_-_騎士_A_-.txt"
+    }
+  ]
+}
